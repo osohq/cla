@@ -53,14 +53,11 @@ agreement and sign it.
     them independently), you may still submit them, but please follow these
     guidelines:
 
-    <ol type="a">
-      <li>submit such materials separately from any contribution;</li>
-      <li>identify the party on whose behalf you are submitting such
-      materials;</li>
-      <li>identify the materials’ source;</li>
-      <li>identify any and all applicable restrictions; and</li>
-      <li>provide all relevant licensing information.</li>
-    </ol><br>
+      1. submit such materials separately from any contribution;
+      1. identify the party on whose behalf you are submitting such materials;
+      1. identify the materials’ source;
+      1. identify any and all applicable restrictions; and
+      1. provide all relevant licensing information.
 
 6. **Updates**. In the event any of the information you’ve provided turns out
    to be inaccurate, you will notify oso of the foregoing as soon as is
