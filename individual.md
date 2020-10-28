@@ -8,19 +8,19 @@ retain all rights to your contributions, including ownership. If you wish to go
 ahead with your contribution, please fill out the fields at the end of this
 agreement and sign it.
 
-1. <u>Submission</u>. A contribution is any material that you submit to oso so
+1. **Submission**. A contribution is any material that you submit to oso so
    that we may include it in our products and/or in any applicable
    documentation (individually, “oso Product”, and, collectively, “oso
    Products”). You may submit your contributions via GitHub, email, and/or
    Slack.
 
-2. <u>Copyright License</u>. By submitting your contribution, you hereby grant
-   to oso and to all entities who use oso Products a worldwide, perpetual,
+2. **Copyright License**. By submitting your contribution, you hereby grant to
+   oso and to all entities who use oso Products a worldwide, perpetual,
    irrevocable, non-exclusive license to reproduce, create derivative works
    from, publicly display and perform, sublicense, and distribute your
    contribution and any such derivative works.
 
-3. <u>Patent License</u>. You also hereby grant to oso and anyone using oso’s
+3. **Patent License**. You also hereby grant to oso and anyone using oso’s
    Products a worldwide, perpetual, irrevocable, non-exclusive patent license
    to make, have made, use, offer to sell, sell, import, and otherwise transfer
    any oso Product that contains or utilizes your contribution, where such
@@ -34,13 +34,13 @@ agreement and sign it.
    granted to that entity under this agreement for that contribution and/or for
    that oso Product shall terminate as of the date such litigation commences.
 
-4. <u>Representations and Warranties</u>. You represent and warrant that you
-   have the authority enter into this agreement and grant the rights set forth
-   in this agreement, and that each of your contributions is original to you
-   and will not infringe any third party’s rights. In the event your
-   contribution or any part thereof is subject to any license, agreement, or
-   third-party right, you represent and warrant that you have, to the best of
-   your knowledge, disclosed such information to oso. In the event you are an
+4. **Representations and Warranties**. You represent and warrant that you have
+   the authority enter into this agreement and grant the rights set forth in
+   this agreement, and that each of your contributions is original to you and
+   will not infringe any third party’s rights. In the event your contribution
+   or any part thereof is subject to any license, agreement, or third-party
+   right, you represent and warrant that you have, to the best of your
+   knowledge, disclosed such information to oso. In the event you are an
    employee of an organization, you hereby represent and warrant that either
    (A) your employer has no rights to your contribution or (B) your employer
    has met one or more of the following requisites: your employer (a) has given
@@ -48,17 +48,22 @@ agreement and sign it.
    to the contribution you’re submitting, and/or (c) has entered into a
    separate agreement with oso.
 
-5. <u>Third Party Materials</u>. Please note that, in the event you want to
-   submit materials that are not original to you (that is, you didn’t create
-   them independently), you may still submit them, but please follow these
-   guidelines:
+ 5. **Third Party Materials**. Please note that, in the event you want to
+    submit materials that are not original to you (that is, you didn’t create
+    them independently), you may still submit them, but please follow these
+    guidelines:
 
-      a. submit such materials separately from any contribution;
-      b. identify the party on whose behalf you are submitting such materials;
-      c. identify the materials’ source;
-      d. identify any and all applicable restrictions; and
-      e. provide all relevant licensing information.
+    <ol type="a">
+      <li>submit such materials separately from any contribution;</li>
+      <li>identify the party on whose behalf you are submitting such
+      materials;</li>
+      <li>identify the materials’ source;</li>
+      <li>identify any and all applicable restrictions; and</li>
+      <li>provide all relevant licensing information.</li>
+    </ol>
 
-6. <u>Updates</u>. In the event any of the information you’ve provided turns
-   out to be inaccurate, you will notify oso of the foregoing as soon as is
+    <br>
+
+6. **Updates**. In the event any of the information you’ve provided turns out
+   to be inaccurate, you will notify oso of the foregoing as soon as is
    commercially reasonable.
