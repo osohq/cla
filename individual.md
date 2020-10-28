@@ -54,10 +54,10 @@ agreement and sign it.
     guidelines:
 
       1. submit such materials separately from any contribution;
-      1. identify the party on whose behalf you are submitting such materials;
-      1. identify the materials’ source;
-      1. identify any and all applicable restrictions; and
-      1. provide all relevant licensing information.
+      2. identify the party on whose behalf you are submitting such materials;
+      3. identify the materials’ source;
+      4. identify any and all applicable restrictions; and
+      5. provide all relevant licensing information.
 
 6. **Updates**. In the event any of the information you’ve provided turns out
    to be inaccurate, you will notify oso of the foregoing as soon as is
