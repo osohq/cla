@@ -60,8 +60,7 @@ agreement and sign it.
       <li>identify the materials’ source;</li>
       <li>identify any and all applicable restrictions; and</li>
       <li>provide all relevant licensing information.</li>
-    </ol>
-    <br>
+    </ol><br>
 
 6. **Updates**. In the event any of the information you’ve provided turns out
    to be inaccurate, you will notify oso of the foregoing as soon as is
